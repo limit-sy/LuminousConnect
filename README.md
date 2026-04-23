@@ -30,6 +30,8 @@
     * Cinemachine (FreeLookカメラのカスタマイズ)
     * Unity Input System (マルチデバイス対応)
     * TextMeshPro (高精細なテキスト表示)
+* **使用素材**:
+    * 効果音：効果音ラボ (https://soundeffect-lab.info/) 様
 
     ## 4. 技術的な実装のポイント
 ### ① 独自会話システムの構築とドラマチックなテキスト演出
